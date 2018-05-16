@@ -28,7 +28,15 @@
 		}
 	},
 	"require": {
-		"facebook/webdriver": "^1.4"
+		"facebook/webdriver": "^1.4",
+		"ext-mbstring": "*",
+		"ext-zip": "*",
+		"ext-gd": "*",
+		"ext-imap": "*",
+		"ext-ldap": "*",
+		"ext-pdo": "*",
+		"ext-pdo_mysql": "*",
+		"ext-pdo_pgsql": "*"
 	},
     "config": {
         "vendor-dir": "third_party",
